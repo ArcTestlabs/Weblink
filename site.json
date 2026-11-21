@@ -13,19 +13,10 @@
   },
   "buttons": [
     {
-      "id": "b1",
-      "type": "work",
-      "label": "Work with me",
-      "url": "",
-      "style": "main",
-      "bg": "",
-      "fg": ""
-    },
-    {
       "id": "b2",
       "type": "link",
-      "label": "Portfolio",
-      "url": "#",
+      "label": "Behance",
+      "url": "https://www.behance.net/ArcTestlabs",
       "style": "normal",
       "bg": "",
       "fg": ""
@@ -34,7 +25,7 @@
       "id": "b3",
       "type": "link",
       "label": "Instagram",
-      "url": "#",
+      "url": "https://www.instagram.com/arc.testlabs/",
       "style": "normal",
       "bg": "",
       "fg": ""
@@ -42,19 +33,19 @@
     {
       "id": "b4",
       "type": "link",
-      "label": "YouTube",
-      "url": "#",
+      "label": "X",
+      "url": "https://x.com/3dripper",
       "style": "normal",
       "bg": "",
       "fg": ""
     },
     {
-      "id": "b5",
-      "type": "link",
-      "label": "Email",
-      "url": "mailto:you@example.com",
-      "style": "normal",
-      "bg": "",
+      "id": "b1",
+      "type": "work",
+      "label": "Work with me",
+      "url": "",
+      "style": "main",
+      "bg": "#ffffff",
       "fg": ""
     }
   ],
@@ -64,24 +55,17 @@
     "items": [
       {
         "id": "m1",
-        "image": "",
+        "image": "images/card-mwqfiyc0.jpg",
         "above": "",
-        "below": "Clear brief, good energy",
-        "score": "10/10"
+        "below": "",
+        "score": ""
       },
       {
         "id": "m2",
         "image": "",
         "above": "",
-        "below": "\"Make it pop\" with no details",
-        "score": "5/10"
-      },
-      {
-        "id": "m3",
-        "image": "",
-        "above": "",
-        "below": "Changes everything at the last minute",
-        "score": "2/10"
+        "below": "",
+        "score": ""
       }
     ],
     "cta": {
