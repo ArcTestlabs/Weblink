@@ -14,10 +14,28 @@
   "fontFile": "",
   "buttons": [
     {
+      "id": "b4",
+      "type": "link",
+      "label": "X",
+      "url": "https://x.com/3dripper",
+      "style": "normal",
+      "bg": "",
+      "fg": ""
+    },
+    {
       "id": "b2",
       "type": "link",
       "label": "Behance",
       "url": "https://www.behance.net/ArcTestlabs",
+      "style": "normal",
+      "bg": "",
+      "fg": ""
+    },
+    {
+      "id": "5gkkg4",
+      "type": "link",
+      "label": "WhatsApp",
+      "url": "https://wa.me/201026885453",
       "style": "normal",
       "bg": "",
       "fg": ""
@@ -32,18 +50,9 @@
       "fg": ""
     },
     {
-      "id": "b4",
-      "type": "link",
-      "label": "X",
-      "url": "https://x.com/3dripper",
-      "style": "normal",
-      "bg": "",
-      "fg": ""
-    },
-    {
       "id": "b1",
       "type": "work",
-      "label": "Work with me",
+      "label": "Work with us!",
       "url": "",
       "style": "main",
       "bg": "#ffffff",
