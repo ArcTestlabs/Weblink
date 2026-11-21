@@ -66,14 +66,14 @@
       {
         "id": "m1",
         "image": "images/card-mwqfiyc0.jpg",
-        "above": "",
+        "above": "SEE if you fit this criteria first.",
         "below": "",
         "score": ""
       },
       {
         "id": "m2",
         "image": "images/card-mwqhbv7j.jpg",
-        "above": "",
+        "above": "you get a client report card! Collect a total of 3 cards and you get 20% off!",
         "below": "",
         "score": ""
       }
@@ -106,7 +106,7 @@
     "bg": "",
     "card": "",
     "text": "",
-    "muted": "",
+    "muted": "#d9d9d9",
     "line": "#ffffff",
     "shadow": "#000000",
     "main": "",
