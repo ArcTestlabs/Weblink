@@ -71,7 +71,7 @@
     ],
     "cta": {
       "label": "Let's work together!",
-      "url": "mailto:you@example.com?subject=Let%27s%20work%20together",
+      "url": "https://wa.me/201026885453",
       "bg": "#df3649",
       "fg": "#000000"
     }
