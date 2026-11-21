@@ -4,13 +4,14 @@
   "bio": "What you do, in one short line.",
   "logo": "",
   "banner": "images/banner-mwqf5br8.jpg",
-  "footer": "© 2026 Your Name",
+  "footer": "© 2025 Arc testlabs",
   "show": {
     "banner": true,
     "logo": false,
     "name": false,
     "bio": false
   },
+  "fontFile": "",
   "buttons": [
     {
       "id": "b2",
@@ -50,8 +51,8 @@
     }
   ],
   "work": {
-    "title": "Let's see if we vibe",
-    "sub": "We're not client and worker here, we're a team. Here's how I rate the energy.",
+    "title": "",
+    "sub": "",
     "items": [
       {
         "id": "m1",
@@ -62,23 +63,31 @@
       },
       {
         "id": "m2",
-        "image": "",
+        "image": "images/card-mwqhbv7j.jpg",
         "above": "",
         "below": "",
         "score": ""
       }
     ],
     "cta": {
-      "label": "Let's work together",
+      "label": "Let's work together!",
       "url": "mailto:you@example.com?subject=Let%27s%20work%20together",
-      "bg": "",
-      "fg": ""
+      "bg": "#df3649",
+      "fg": "#000000"
     }
   },
   "layout": {
-    "width": "medium",
-    "shadow": "subtle",
+    "width": "wide",
+    "shadowPx": 7,
     "theme": "auto",
+    "bannerSize": 100,
+    "workSize": 100,
+    "logoSize": 96,
+    "headFont": "editundo",
+    "bodyFont": "editundo",
+    "scalePhone": 100,
+    "scaleDesk": 130,
+    "shadow": "subtle",
     "bannerShape": "wide",
     "cardShape": "wide",
     "cards": "stack",
@@ -90,8 +99,12 @@
     "text": "",
     "muted": "",
     "line": "",
-    "shadow": "",
+    "shadow": "#000000",
     "main": "",
-    "mainText": ""
+    "mainText": "",
+    "head": "",
+    "btn": "",
+    "btnText": "",
+    "placeholder": ""
   }
 }
