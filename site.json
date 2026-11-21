@@ -78,7 +78,7 @@
   },
   "layout": {
     "width": "wide",
-    "shadowPx": 7,
+    "shadowPx": 10,
     "theme": "auto",
     "bannerSize": 100,
     "workSize": 100,
@@ -98,7 +98,7 @@
     "card": "",
     "text": "",
     "muted": "",
-    "line": "",
+    "line": "#ffffff",
     "shadow": "#000000",
     "main": "",
     "mainText": "",
