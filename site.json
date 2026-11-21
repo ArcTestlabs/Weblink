@@ -1,0 +1,113 @@
+{
+  "v": 3,
+  "name": "Your Name",
+  "bio": "What you do, in one short line.",
+  "logo": "",
+  "banner": "images/banner-mwqf5br8.jpg",
+  "footer": "© 2026 Your Name",
+  "show": {
+    "banner": true,
+    "logo": false,
+    "name": false,
+    "bio": false
+  },
+  "buttons": [
+    {
+      "id": "b1",
+      "type": "work",
+      "label": "Work with me",
+      "url": "",
+      "style": "main",
+      "bg": "",
+      "fg": ""
+    },
+    {
+      "id": "b2",
+      "type": "link",
+      "label": "Portfolio",
+      "url": "#",
+      "style": "normal",
+      "bg": "",
+      "fg": ""
+    },
+    {
+      "id": "b3",
+      "type": "link",
+      "label": "Instagram",
+      "url": "#",
+      "style": "normal",
+      "bg": "",
+      "fg": ""
+    },
+    {
+      "id": "b4",
+      "type": "link",
+      "label": "YouTube",
+      "url": "#",
+      "style": "normal",
+      "bg": "",
+      "fg": ""
+    },
+    {
+      "id": "b5",
+      "type": "link",
+      "label": "Email",
+      "url": "mailto:you@example.com",
+      "style": "normal",
+      "bg": "",
+      "fg": ""
+    }
+  ],
+  "work": {
+    "title": "Let's see if we vibe",
+    "sub": "We're not client and worker here, we're a team. Here's how I rate the energy.",
+    "items": [
+      {
+        "id": "m1",
+        "image": "",
+        "above": "",
+        "below": "Clear brief, good energy",
+        "score": "10/10"
+      },
+      {
+        "id": "m2",
+        "image": "",
+        "above": "",
+        "below": "\"Make it pop\" with no details",
+        "score": "5/10"
+      },
+      {
+        "id": "m3",
+        "image": "",
+        "above": "",
+        "below": "Changes everything at the last minute",
+        "score": "2/10"
+      }
+    ],
+    "cta": {
+      "label": "Let's work together",
+      "url": "mailto:you@example.com?subject=Let%27s%20work%20together",
+      "bg": "",
+      "fg": ""
+    }
+  },
+  "layout": {
+    "width": "medium",
+    "shadow": "subtle",
+    "theme": "auto",
+    "bannerShape": "wide",
+    "cardShape": "wide",
+    "cards": "stack",
+    "font": "sans"
+  },
+  "colors": {
+    "bg": "",
+    "card": "",
+    "text": "",
+    "muted": "",
+    "line": "",
+    "shadow": "",
+    "main": "",
+    "mainText": ""
+  }
+}
