@@ -88,7 +88,7 @@
   "layout": {
     "width": "wide",
     "shadowPx": 10,
-    "theme": "auto",
+    "theme": "dark",
     "bannerSize": 100,
     "workSize": 100,
     "logoSize": 96,
