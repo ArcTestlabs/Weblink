@@ -32,19 +32,19 @@
       "fg": ""
     },
     {
-      "id": "5gkkg4",
+      "id": "b3",
       "type": "link",
-      "label": "WhatsApp",
-      "url": "https://wa.me/201026885453",
+      "label": "Instagram",
+      "url": "https://www.instagram.com/arc.testlabs/",
       "style": "normal",
       "bg": "",
       "fg": ""
     },
     {
-      "id": "b3",
+      "id": "5gkkg4",
       "type": "link",
-      "label": "Instagram",
-      "url": "https://www.instagram.com/arc.testlabs/",
+      "label": "WhatsApp",
+      "url": "https://wa.me/201026885453",
       "style": "normal",
       "bg": "",
       "fg": ""
