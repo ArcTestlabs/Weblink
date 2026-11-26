@@ -95,7 +95,7 @@
     "headFont": "editundo",
     "bodyFont": "editundo",
     "scalePhone": 100,
-    "scaleDesk": 130,
+    "scaleDesk": 150,
     "shadow": "subtle",
     "bannerShape": "wide",
     "cardShape": "wide",
